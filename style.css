@@ -66,6 +66,9 @@ header h1{
 
 
 }
+
+
+
 header p{
     text-align: center;
     color: white;
@@ -203,5 +206,4 @@ div.video > iframe{
     height: 90%;
     border-radius: 10px;
 }
-
 
